@@ -1,2 +1,3 @@
-# pharoclub.github.io
-A website for Pharo Club
+# Pharo Club
+
+The Ukrainian branch of Pharo open source community.
